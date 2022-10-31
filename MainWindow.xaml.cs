@@ -24,5 +24,10 @@ namespace Wpf_Zaharov_PR5
         {
             InitializeComponent();
         }
+
+        private void Frame_Navigated()
+        {
+
+        }
     }
 }
